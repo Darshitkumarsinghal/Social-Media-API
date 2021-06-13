@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f290d3b-d315-4164-b673-6d26ee3bb9f4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Social.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Social.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/keys.js" beforeDir="false" afterPath="$PROJECT_DIR$/keys.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/auth.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1623508301440</updated>
       <workItem from="1623508302502" duration="13534000" />
-      <workItem from="1623555600731" duration="6797000" />
+      <workItem from="1623555600731" duration="7526000" />
     </task>
     <servers />
   </component>
