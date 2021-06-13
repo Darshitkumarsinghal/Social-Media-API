@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Social.iml" filepath="$PROJECT_DIR$/.idea/Social.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../quill-editor-blog-master/.idea/quill-editor-blog-master.iml" filepath="$PROJECT_DIR$/../quill-editor-blog-master/.idea/quill-editor-blog-master.iml" />
     </modules>
   </component>
 </project>
