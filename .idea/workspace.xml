@@ -2,7 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f290d3b-d315-4164-b673-6d26ee3bb9f4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Navbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/screens/CreatePost.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/screens/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/screens/Profile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/screens/Signin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/screens/Signup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/serviceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plan.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Social.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Social.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,6 +36,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -21,16 +45,20 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1tqtAFW1iZDqrmcIIzSAQIZU341" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../quill-editor-blog-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../project_mern_memories-PART_4" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -49,33 +77,43 @@
       <option name="presentableId" value="Default" />
       <updated>1623508301440</updated>
       <workItem from="1623508302502" duration="13534000" />
-      <workItem from="1623555600731" duration="7526000" />
+      <workItem from="1623555600731" duration="13373000" />
+      <workItem from="1623600224413" duration="11384000" />
+      <workItem from="1623640999948" duration="9042000" />
+      <workItem from="1623653627716" duration="2540000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1623557189507">
+    <state x="771" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1623602951854">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1623557189507" />
-    <state width="591" height="174" key="GridCell.Tab.0.bottom" timestamp="1623511552901">
+    <state x="771" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1623602951854" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1623669288322">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="591" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1623511552901" />
-    <state width="591" height="174" key="GridCell.Tab.0.center" timestamp="1623511552901">
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1623669288322" />
+    <state width="1322" height="184" key="GridCell.Tab.0.bottom" timestamp="1623653443727">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="591" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1623511552901" />
-    <state width="591" height="174" key="GridCell.Tab.0.left" timestamp="1623511552832">
+    <state width="1322" height="184" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1623653443727" />
+    <state width="1322" height="184" key="GridCell.Tab.0.center" timestamp="1623653443726">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="591" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1623511552832" />
-    <state width="591" height="174" key="GridCell.Tab.0.right" timestamp="1623511552901">
+    <state width="1322" height="184" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1623653443726" />
+    <state width="1322" height="184" key="GridCell.Tab.0.left" timestamp="1623653443726">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="591" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1623511552901" />
+    <state width="1322" height="184" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1623653443726" />
+    <state width="1322" height="184" key="GridCell.Tab.0.right" timestamp="1623653443726">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="184" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1623653443726" />
   </component>
 </project>

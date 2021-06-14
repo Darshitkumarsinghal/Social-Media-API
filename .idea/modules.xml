@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Social.iml" filepath="$PROJECT_DIR$/.idea/Social.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../project_mern_memories-PART_1_and_2/.idea/project_mern_memories-PART_1_and_2.iml" filepath="$PROJECT_DIR$/../project_mern_memories-PART_1_and_2/.idea/project_mern_memories-PART_1_and_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../project_mern_memories-PART_4/.idea/project_mern_memories-PART_4.iml" filepath="$PROJECT_DIR$/../project_mern_memories-PART_4/.idea/project_mern_memories-PART_4.iml" />
       <module fileurl="file://$PROJECT_DIR$/../quill-editor-blog-master/.idea/quill-editor-blog-master.iml" filepath="$PROJECT_DIR$/../quill-editor-blog-master/.idea/quill-editor-blog-master.iml" />
     </modules>
   </component>

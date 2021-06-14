@@ -9,5 +9,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="quill-editor-blog-master" />
+    <orderEntry type="module" module-name="project_mern_memories-PART_1_and_2" />
+    <orderEntry type="module" module-name="project_mern_memories-PART_4" />
   </component>
 </module>
